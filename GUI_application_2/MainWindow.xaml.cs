@@ -29,6 +29,7 @@ namespace GUI_application_2
         {
             textBox.Clear();
 
+
               
         }
     }
