@@ -28,9 +28,22 @@ namespace GUI_application_2
         private void button1_Click(object sender, RoutedEventArgs e)
         {
             textBox.Clear();
+            textBox1.Clear();
+            textBox2.Clear();
+            textBox3.Clear();
 
 
-              
+        }
+
+        private void button_Click(object sender, RoutedEventArgs e)
+        {
+           string Box1;
+
+            Box1 = textBox.Text;
+            textBox.Text = textBox1.Text;
+            textBox1.Text = textBox2.Text;
+            textBox2.Text = textBox3.Text;
+            textBox3.Text = Box1;
         }
     }
 }
