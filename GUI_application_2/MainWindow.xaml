@@ -17,7 +17,7 @@
         <TextBox x:Name="textBox3" HorizontalAlignment="Left" Height="23" Margin="122,189,0,0" TextWrapping="Wrap" Text="Line4" VerticalAlignment="Top" Width="120"/>
         <Button x:Name="button" Content="Scroll Up" HorizontalAlignment="Left" Margin="310,70,0,0" VerticalAlignment="Top" Width="157" Height="42" FontFamily="Arial Black" FontSize="14" Click="button_Click"/>
         <Button x:Name="button1" Content="Clear" HorizontalAlignment="Left" Margin="310,129,0,0" VerticalAlignment="Top" Width="158" RenderTransformOrigin="0.333,3.25" Height="42" FontFamily="Arial Black" FontSize="14" Click="button1_Click"/>
-        <Button x:Name="button2" Content="Scroll Down" HorizontalAlignment="Left" Margin="310,189,0,0" VerticalAlignment="Top" Width="154" Height="41" RenderTransformOrigin="0.5,0.5" FontFamily="Arial Black" FontSize="14">
+        <Button x:Name="button2" Content="Scroll Down" HorizontalAlignment="Left" Margin="310,189,0,0" VerticalAlignment="Top" Width="154" Height="41" RenderTransformOrigin="0.5,0.5" FontFamily="Arial Black" FontSize="14" Click="button2_Click">
             <Button.RenderTransform>
                 <TransformGroup>
                     <ScaleTransform/>

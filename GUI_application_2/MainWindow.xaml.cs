@@ -44,6 +44,19 @@ namespace GUI_application_2
             textBox1.Text = textBox2.Text;
             textBox2.Text = textBox3.Text;
             textBox3.Text = Box1;
+
+            
+        }
+
+        private void button2_Click(object sender, RoutedEventArgs e)
+        {
+            string Box2;
+
+            Box2 = textBox3.Text;
+            textBox3.Text = textBox2.Text;
+            textBox2.Text = textBox1.Text;
+            textBox1.Text = textBox.Text;
+            textBox.Text = Box2;
         }
     }
 }
