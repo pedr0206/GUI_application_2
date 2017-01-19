@@ -28,6 +28,7 @@ namespace GUI_application_2
         private void button1_Click(object sender, RoutedEventArgs e)
         {
             textBox.Clear();
+
               
         }
     }
