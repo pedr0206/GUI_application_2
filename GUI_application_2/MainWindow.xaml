@@ -11,7 +11,7 @@
         <Label x:Name="label" Content="2" HorizontalAlignment="Left" Margin="56,107,0,0" VerticalAlignment="Top"/>
         <Label x:Name="label2" Content="3" HorizontalAlignment="Left" Margin="58,147,0,0" VerticalAlignment="Top"/>
         <Label x:Name="label3" Content="4" HorizontalAlignment="Left" Margin="58,185,0,0" VerticalAlignment="Top"/>
-        <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="23" Margin="122,76,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120" RenderTransformOrigin="0.417,2.174"/>
+        <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="23" Margin="122,76,0,0" TextWrapping="Wrap" Text="l" VerticalAlignment="Top" Width="120" RenderTransformOrigin="0.417,2.174"/>
         <TextBox x:Name="textBox1" HorizontalAlignment="Left" Height="23" Margin="122,111,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
         <TextBox x:Name="textBox2" HorizontalAlignment="Left" Height="23" Margin="122,151,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
         <TextBox x:Name="textBox3" HorizontalAlignment="Left" Height="23" Margin="122,189,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
